@@ -10,7 +10,7 @@ The project detects and tracks players and enemies, estimates body pose, predict
 
 ## Features
 
-* Real-time player and boss detection
+* Real-time player and boss detection (currently works on Elden Ring)
 * Multi-object tracking
 * Human pose estimation
 * Attack prediction
